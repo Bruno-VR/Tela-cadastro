@@ -9,7 +9,8 @@ obs: Não está responsivo
 <br>
 imagem do projeto:
 <br>
-![tela git](https://user-images.githubusercontent.com/79383599/117075588-77bc3280-ad0b-11eb-8298-e7062aa79f73.png)
+![telagit](https://user-images.githubusercontent.com/79383599/117084059-83fcbb80-ad1c-11eb-95d7-3eb8acc6c2a4.png)
+
 <br>
 
 Projeto em andamento!!
